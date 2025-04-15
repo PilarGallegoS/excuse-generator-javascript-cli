@@ -2,7 +2,7 @@
   "grading": "incremental",
   "difficulty": "easy",
   "duration": 3,
-  "language": "node",
+  "language": "javascript",
   "projectType": "tutorial",
   "description": "Create an excuse generator with a CLI using Javascript",
   "title": "Excuse Generator CLI with Javascript",
